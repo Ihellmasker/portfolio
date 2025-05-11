@@ -4,8 +4,8 @@ import Image from "next/image";
 
 export default function AboutMe() {
     return (
-        <section className="w-full border-b-1 border-slate-200">
-            <div className="w-5xl mx-auto mb-12">
+        <section className="w-full border-b-1 py-10 border-slate-200">
+            <div className="w-5xl mx-auto">
                 <Headline2 className="text-center mb-10">
                     Who is Andy?
                 </Headline2>
